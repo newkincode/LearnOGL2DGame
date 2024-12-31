@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ko-kr'
+title = 'LearnOpenGL for 2d Game Developer'
+theme = 'sinoka'
